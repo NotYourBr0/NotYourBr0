@@ -46,11 +46,12 @@ I enjoy building **scalable web apps**, crafting **responsive UIs**, and integra
   <summary>More details...</summary>
   <br>
  
-- **Languages:** HTML, CSS, JavaScript (ES6+), Python, C/C++
-- **Frameworks & Libraries:** React, Vite, Tailwind CSS, Node.js, Express.js
-- **Databases:** MongoDB Atlas
-- **Tools & Platforms:** Git, GitHub, Vercel, Render, Cloudinary
-- **Special Skills:** JWT Auth, REST APIs, Responsive Design, Prompt Engineering
+- **Languages:** HTML, CSS, JavaScript (ES6+), Python, C/C++  
+- **Frameworks & Libraries:** React, Vite, Tailwind CSS, Node.js, Express.js  
+- **Databases:** MongoDB Atlas  
+- **Tools:** Git, GitHub, Vercel, Render, Cloudinary  
+- **Special Skills:** JWT Auth, REST APIs, Responsive Design, Prompt Engineering, ChatGPT, GitHub Copilot  
+
 </details>
 
 ---
