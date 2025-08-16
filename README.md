@@ -2,26 +2,40 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Kartik%20Swami%20🚀&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
-# 👋 Hi there, I'm Kartik Swami!
+# 👋 Hi, I'm Kartik Swami  
 
-### 🎓 Computer Science Undergraduate | 💻 MERN Stack Developer | 🧠 AI Explorer
+🎓 A **Computer Science Undergraduate (3rd Year)** from Jaipur, India  
+💻 Passionate about **Full-Stack Web Development (MERN)** and **AI-powered solutions**  
+⚡ Known for **fast calculations, logical reasoning, and quick learning**  
+🚀 Currently building **scalable apps, dashboards, and AI-driven tools**  
 
-I'm a third-year Computer Science student from Jaipur, India, with a passion for building awesome things. As a **full-stack developer**, I specialize in the **MERN stack**, transforming complex ideas into elegant, high-performance web applications. I love crafting clean, intuitive user interfaces and building robust backends that power them.
+---
 
-When I'm not coding, I'm exploring the world of **Artificial Intelligence**, leveraging tools and APIs to create smart solutions that boost productivity and automate tasks. My focus is on creating powerful and delightful digital experiences that solve real-world problems.
+## 🌟 Professional Summary
+Highly motivated and results-driven developer with experience in **React, Node.js, Express, MongoDB, and AI tools**.  
+I enjoy building **scalable web apps**, crafting **responsive UIs**, and integrating **AI to enhance workflows**.  
 
 ---
 
 ## 🚀 Featured Projects
+- 🛒 **Myntra Clone**  
+  Fashion e-commerce with category filters, sidebar, and product listing automation.  
+  *Tech:* React, JSON APIs, Tailwind CSS  
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Myntra Clone** | Engineered a feature-rich e-commerce platform with a focus on a seamless shopping experience, including dynamic category filtering and an automated product listing system. | **React, JSON APIs, Tailwind CSS** |
-| **Admin Panel CMS** | Developed a secure Content Management System for blogs and services, featuring **JWT authentication** for user security and **Cloudinary integration** for effortless media management. | **React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary** |
-| **Personal AI Chatbot** | Built a custom chatbot using **Flowise and the Gemini API** to act as a personal assistant, automating tasks and providing quick access to information for my daily workflow. | **Node.js, APIs, Prompt Engineering** |
-| **Flappy Bird & Snake** | Created browser-based classics from scratch to master core **game logic and DOM manipulation**, proving that even simple games can be a fun way to learn. | **Vanilla JavaScript** |
+- 📊 **Dashboard + Admin Panel CMS**  
+  A secure CMS to manage Blogs, Interviews & Services with **JWT auth & MongoDB Atlas**.  
+  *Tech:* React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary  
+
+- 🤖 **Personal AI Chatbot**  
+  Custom chatbot using **Flowise + Gemini API** for productivity automation & learning.  
+  *Tech:* Node.js, APIs, Prompt Engineering  
+
+- 🎮 **Flappy Bird & Snake Games**  
+  Fun browser-based games showcasing **game logic & DOM manipulation**.  
+  *Tech:* Vanilla JavaScript  
 
 ---
+
 
 ## 🛠️ Skills & Technologies
 <p>
