@@ -4,24 +4,22 @@
 
 # 👋 Hi there, I'm Kartik Swami!
 
-### 🎓 Computer Science Student | 💻 Full-Stack Developer | 🧠 AI Enthusiast
+### 🎓 Computer Science Undergraduate | 💻 MERN Stack Developer | 🧠 AI Explorer
 
-I'm a third-year Computer Science undergraduate from Jaipur, India, with a deep passion for building robust and scalable web applications. My expertise lies in the **MERN stack**, where I love to transform complex ideas into clean, efficient, and user-friendly digital experiences. I'm also exploring the exciting world of **AI**, leveraging tools and APIs to create intelligent solutions that automate workflows and enhance productivity.
+I'm a third-year Computer Science student from Jaipur, India, with a passion for building awesome things. As a **full-stack developer**, I specialize in the **MERN stack**, transforming complex ideas into elegant, high-performance web applications. I love crafting clean, intuitive user interfaces and building robust backends that power them.
 
----
-
-## 🚀 What I'm Building
-I'm currently focused on developing **full-stack applications**, crafting **responsive user interfaces**, and integrating **AI-driven features** to solve real-world problems. My goal is to build powerful tools that are not only functional but also intuitive and delightful to use.
+When I'm not coding, I'm exploring the world of **Artificial Intelligence**, leveraging tools and APIs to create smart solutions that boost productivity and automate tasks. My focus is on creating powerful and delightful digital experiences that solve real-world problems.
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
+
 | Project | Description | Tech Stack |
-|:---:|:---:|:---:|
-| 🛒 **Myntra Clone** | A comprehensive e-commerce platform replicating Myntra's core features. It includes dynamic product filtering, automated product listings, and a clean, responsive UI. | **React, JSON APIs, Tailwind CSS** |
-| 📊 **Admin Panel CMS** | A secure Content Management System (CMS) for managing blogs, interviews, and services. It features **JWT authentication** and a robust backend powered by **MongoDB Atlas** and **Cloudinary** for media management. | **React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary** |
-| 🤖 **Personal AI Chatbot** | A custom AI chatbot built with **Flowise and the Gemini API** to automate tasks and enhance my personal learning and workflow. | **Node.js, APIs, Prompt Engineering** |
-| 🎮 **Flappy Bird & Snake Games** | Fun, browser-based games demonstrating a solid grasp of core game logic and DOM manipulation in pure JavaScript. | **Vanilla JavaScript** |
+| :--- | :--- | :--- |
+| **Myntra Clone** | Engineered a feature-rich e-commerce platform with a focus on a seamless shopping experience, including dynamic category filtering and an automated product listing system. | **React, JSON APIs, Tailwind CSS** |
+| **Admin Panel CMS** | Developed a secure Content Management System for blogs and services, featuring **JWT authentication** for user security and **Cloudinary integration** for effortless media management. | **React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary** |
+| **Personal AI Chatbot** | Built a custom chatbot using **Flowise and the Gemini API** to act as a personal assistant, automating tasks and providing quick access to information for my daily workflow. | **Node.js, APIs, Prompt Engineering** |
+| **Flappy Bird & Snake** | Created browser-based classics from scratch to master core **game logic and DOM manipulation**, proving that even simple games can be a fun way to learn. | **Vanilla JavaScript** |
 
 ---
 
