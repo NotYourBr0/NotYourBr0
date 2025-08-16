@@ -39,20 +39,15 @@ I enjoy building **scalable web apps**, crafting **responsive UIs**, and integra
 
 ## 🛠️ Skills & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,vite,py,c,git,github,vercel,render" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,vite,py,c,git,github,vercel,render" alt="Skills" />
 </p>
 
-<details>
-  <summary>More details...</summary>
-  <br>
- 
-- **Languages:** HTML, CSS, JavaScript (ES6+), Python, C/C++  
-- **Frameworks & Libraries:** React, Vite, Tailwind CSS, Node.js, Express.js  
-- **Databases:** MongoDB Atlas  
-- **Tools:** Git, GitHub, Vercel, Render, Cloudinary  
-- **Special Skills:** JWT Auth, REST APIs, Responsive Design, Prompt Engineering, ChatGPT, GitHub Copilot  
+> 💡 **Languages:** HTML, CSS, JavaScript (ES6+), Python, C/C++  
+> ⚛️ **Frameworks & Libraries:** React, Vite, Tailwind CSS, Node.js, Express.js  
+> 🗄️ **Databases:** MongoDB Atlas  
+> 🛠️ **Tools:** Git, GitHub, Vercel, Render, Cloudinary  
+> 🔒 **Special Skills:** JWT Auth, REST APIs, Responsive Design, Prompt Engineering, ChatGPT, GitHub Copilot  
 
-</details>
 
 ---
 
