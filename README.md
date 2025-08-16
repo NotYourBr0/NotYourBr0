@@ -1,12 +1,20 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kartik%20Swami%20🚀&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Kartik%20Swami%20🚀&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
 # 👋 Hi, I'm Kartik Swami  
-💻 A passionate developer exploring **React, Node.js, MongoDB, and AI**  
-⚡ Fast in **calculations** & **logical reasoning**  
-✨ Currently building cool **projects & clones**  
+
+🎓 A **Computer Science Undergraduate (3rd Year)** from Jaipur, India  
+💻 Passionate about **Full-Stack Web Development (MERN)** and **AI-powered solutions**  
+⚡ Known for **fast calculations, logical reasoning, and quick learning**  
+🚀 Currently building **scalable apps, dashboards, and AI-driven tools**  
+
+---
+
+## 🌟 Professional Summary
+Highly motivated and results-driven developer with experience in **React, Node.js, Express, MongoDB, and AI tools**.  
+I enjoy building **scalable web apps**, crafting **responsive UIs**, and integrating **AI to enhance workflows**.  
 
 ---
 
@@ -25,10 +33,31 @@
 
 ---
 
-## 🚀 Projects I'm Working On
-- 🛒 **Myntra Clone** – Fashion e-commerce with filters & categories  
-- 📊 **Dashboard + Admin Panel** – Blogs, Interviews & Services management  
-- 🤖 **Personal AI Chatbot** – Productivity & learning with Flowise + Gemini API  
+## 🚀 Featured Projects
+- 🛒 **Myntra Clone**  
+  Fashion e-commerce with category filters, sidebar, and product listing automation.  
+  *Tech:* React, JSON APIs, Tailwind CSS  
+
+- 📊 **Dashboard + Admin Panel CMS**  
+  A secure CMS to manage Blogs, Interviews & Services with **JWT auth & MongoDB Atlas**.  
+  *Tech:* React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary  
+
+- 🤖 **Personal AI Chatbot**  
+  Custom chatbot using **Flowise + Gemini API** for productivity automation & learning.  
+  *Tech:* Node.js, APIs, Prompt Engineering  
+
+- 🎮 **Flappy Bird & Snake Games**  
+  Fun browser-based games showcasing **game logic & DOM manipulation**.  
+  *Tech:* Vanilla JavaScript  
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** HTML, CSS, JavaScript (ES6+), Python, C/C++  
+- **Frameworks & Libraries:** React, Vite, Tailwind CSS, Node.js, Express.js  
+- **Databases:** MongoDB Atlas  
+- **Tools:** Git, GitHub, Vercel, Render, Cloudinary  
+- **Special Skills:** JWT Auth, REST APIs, Responsive Design, Prompt Engineering, ChatGPT, GitHub Copilot  
 
 ---
 
@@ -44,5 +73,5 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 </p>
