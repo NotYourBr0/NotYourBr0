@@ -51,14 +51,7 @@ I enjoy building **scalable web apps**, crafting **responsive UIs**, and integra
 
 ---
 
-## 📊 My GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotYourBr0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotYourBr0&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotYourBr0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
----
 
 ## 🌐 Let's Connect!
 <p align="left">
